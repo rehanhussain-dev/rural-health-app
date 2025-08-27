@@ -1,0 +1,10 @@
+# Project-wide ignores
+.env
+.DS_Store
+
+# Node.js ignores
+node_modules
+npm-debug.log
+
+# Mac OS ignores
+.vscode
